@@ -1,5 +1,5 @@
 
-!I hate this course and all its related software.
+I hate this course and all its related software.
 ---
 YoshiItoku/YoshiItoku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
